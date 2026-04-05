@@ -22,7 +22,7 @@
     "items": [
       {
         "title": "Des logiciels qui n'évoluent pas",
-        "desc": "Skara et ses semblables ont été conçus il y a 15 ans. Pas d'IA, pas d'automatisation, interface figée."
+        "desc": "Les solutions historiques du secteur ont été conçues il y a 15 ans. Pas d'IA, pas d'automatisation, interface figée."
       },
       {
         "title": "Zéro intelligence dans tes outils",
@@ -104,7 +104,7 @@
     "badge": "Comparaison",
     "title": "Pourquoi choisir",
     "titleAccent": "NeoFlow BOS ?",
-    "headers": ["Fonctionnalité", "NeoFlow BOS", "Skara", "Logiciel générique"],
+    "headers": ["Fonctionnalité", "NeoFlow BOS", "Logiciels secteur", "Logiciel générique"],
     "rows": [
       { "feature": "Tarifs transparents", "neoflow": true, "skara": false, "generic": true },
       { "feature": "IA intégrée native", "neoflow": true, "skara": false, "generic": false },

@@ -22,7 +22,7 @@
     "items": [
       {
         "title": "Software that never evolves",
-        "desc": "Skara and its peers were designed 15 years ago. No AI, no automation, frozen interface."
+        "desc": "The legacy solutions of the sector were designed 15 years ago. No AI, no automation, frozen interface."
       },
       {
         "title": "Zero intelligence in your tools",
@@ -104,7 +104,7 @@
     "badge": "Comparison",
     "title": "Why choose",
     "titleAccent": "NeoFlow BOS?",
-    "headers": ["Feature", "NeoFlow BOS", "Skara", "Generic Software"],
+    "headers": ["Feature", "NeoFlow BOS", "Sector Software", "Generic Software"],
     "rows": [
       { "feature": "Transparent pricing", "neoflow": true, "skara": false, "generic": true },
       { "feature": "Native AI integration", "neoflow": true, "skara": false, "generic": false },
