@@ -4,118 +4,118 @@
     "pricing": "Tarifs",
     "enterprise": "Entreprise",
     "contact": "Contact",
-    "cta": "Essayer gratuitement",
+    "cta": "Essai gratuit 7 jours",
     "lang": "EN"
   },
   "hero": {
-    "badge": "7 jours d'essai gratuit · Sans engagement",
-    "title": "La gestion de ton magasin,",
-    "titleGradient": "réinventée.",
-    "subtitle": "Le premier Business Operating System pensé pour les magasins de meubles et literie. Factures, stock, livraisons GPS, SAV et IA — tout en un.",
+    "badge": "7 jours d'essai gratuit · Sans engagement · Sans carte bancaire",
+    "title": "Votre magasin mérite mieux",
+    "titleGradient": "qu'un logiciel de 2010.",
+    "subtitle": "NeoFlow BOS réunit facturation, stock, livraisons GPS, SAV et IA agentique dans un seul espace. Conçu pour les magasins de meubles et literie qui veulent reprendre le contrôle de leur temps.",
     "cta": "Commencer gratuitement",
     "ctaSecondary": "Voir les fonctionnalités",
     "scrollHint": "Découvrir"
   },
   "pain": {
-    "title": "La gestion d'un magasin ne devrait pas ressembler à ça.",
-    "subtitle": "Des outils vieillissants, des données éparpillées, zéro IA. NeoFlow BOS change tout.",
+    "title": "Vous perdez du temps. Chaque jour.",
+    "subtitle": "Pas parce que vous travaillez mal — mais parce que vos outils n'ont pas évolué depuis 10 ans.",
     "items": [
       {
-        "title": "Des logiciels qui n'évoluent pas",
-        "desc": "Les solutions historiques du secteur ont été conçues il y a 15 ans. Pas d'IA, pas d'automatisation, interface figée."
+        "title": "Des logiciels figés depuis 15 ans",
+        "desc": "Les solutions historiques du secteur ont été conçues avant les smartphones. Pas d'IA, pas d'automatisation, des interfaces qui n'ont pas changé. Vous payez pour de la dette technologique."
       },
       {
-        "title": "Zéro intelligence dans tes outils",
-        "desc": "Tu dois tout analyser manuellement. Tes concurrents qui utilisent l'IA prennent de meilleures décisions, plus vite."
+        "title": "Tout est manuel, rien n'est synchronisé",
+        "desc": "Caisse d'un côté, tableur stock de l'autre, app livraison ailleurs. Vous ressaisissez les mêmes données trois fois. Ce temps-là, vous pourriez le consacrer à votre client."
       },
       {
-        "title": "5 outils pour faire le travail d'un seul",
-        "desc": "Logiciel de caisse, tableur stock, app livraison, CRM client, outil SAV — chacun séparé, rien de synchronisé."
+        "title": "Vos concurrents passent à l'IA — pas vous",
+        "desc": "L'automatisation et l'IA ne sont plus réservées aux grands groupes. Ceux qui s'y mettent maintenant prennent de l'avance sur leurs marges, leur organisation et leur croissance."
       }
     ]
   },
   "solution": {
     "badge": "La solution",
-    "title": "Tout ce dont ton magasin a besoin.",
-    "titleAccent": "Dans un seul outil.",
-    "desc": "NeoFlow BOS centralise toute ton activité commerciale — des commandes à la livraison, du devis à la facture, du ticket SAV à l'avoir — avec une IA qui connaît ton business.",
+    "title": "Un seul outil.",
+    "titleAccent": "Toute votre activité.",
+    "desc": "NeoFlow BOS centralise ce que vous gérez aujourd'hui avec 5 outils différents : devis, commandes, factures, stock, livraisons GPS, SAV avec avoirs, et une IA qui connaît votre activité en temps réel.",
     "stats": [
       { "value": "14+", "label": "Modules intégrés" },
-      { "value": "3", "label": "Plans adaptés" },
+      { "value": "4", "label": "Rôles configurables" },
       { "value": "7j", "label": "Essai gratuit" },
-      { "value": "2", "label": "Langues" }
+      { "value": "0", "label": "Installation requise" }
     ]
   },
   "howItWorks": {
     "badge": "Comment ça marche",
     "title": "Opérationnel en",
-    "titleAccent": "quelques minutes.",
+    "titleAccent": "moins d'une heure.",
     "steps": [
       {
         "num": "01",
-        "title": "Créez votre compte",
-        "desc": "En 2 minutes, votre espace est prêt. Aucune installation, aucune configuration complexe — tout se passe dans le navigateur.",
+        "title": "Créez votre espace en 2 minutes",
+        "desc": "Aucune installation, aucun serveur à configurer. Votre espace NeoFlow BOS est prêt dès la création de votre compte, depuis n'importe quel navigateur.",
         "tag": "Inscription"
       },
       {
         "num": "02",
-        "title": "Configurez votre magasin",
-        "desc": "Ajoutez vos produits, vos emplacements de stock et vos membres d'équipe. NeoFlow BOS s'adapte à la structure de votre magasin.",
+        "title": "Configurez selon votre magasin",
+        "desc": "Ajoutez vos produits, vos emplacements de stock, invitez votre équipe avec le bon rôle. NeoFlow BOS s'adapte à votre structure — pas l'inverse.",
         "tag": "Paramétrage"
       },
       {
         "num": "03",
-        "title": "Vendez et facturez",
-        "desc": "Créez devis, commandes et factures professionnelles en quelques clics. PDF automatique, envoi email, suivi des paiements.",
+        "title": "Vendez, devisez, facturez",
+        "desc": "Créez un devis en 30 secondes, convertissez-le en commande en un clic, émettez la facture automatiquement. PDF généré, email envoyé, paiement tracé.",
         "tag": "Facturation"
       },
       {
         "num": "04",
-        "title": "Livrez avec GPS",
-        "desc": "Planifiez et assignez les livraisons. Vos livreurs ont leur propre app mobile avec navigation GPS et confirmation de livraison.",
+        "title": "Gérez les livraisons avec GPS",
+        "desc": "Assignez les livraisons depuis le kanban. Vos livreurs ont leur propre app mobile avec navigation GPS — totalement isolée du reste de votre espace.",
         "tag": "Livraisons"
       },
       {
         "num": "05",
-        "title": "Pilotez avec l'IA",
-        "desc": "NeoChat connaît votre activité. Posez vos questions en langage naturel, obtenez des analyses instantanées et générez des documents.",
-        "tag": "Intelligence"
+        "title": "Laissez l'IA travailler pour vous",
+        "desc": "NeoChat interroge vos données en temps réel, génère vos documents et peut agir sur votre compte — toujours avec votre validation. Ce n'est pas un chatbot, c'est un agent.",
+        "tag": "IA agentique"
       }
     ]
   },
   "features": {
     "badge": "Fonctionnalités",
     "title": "Conçu pour",
-    "titleAccent": "ton métier.",
+    "titleAccent": "votre métier.",
     "items": [
       {
-        "title": "NeoChat — IA agentique",
-        "desc": "Pas un chatbot. Un agent IA qui agit : recherche tes commandes, crée des livraisons, met à jour des statuts — toujours avec ta validation avant d'écrire quoi que ce soit.",
+        "title": "NeoChat — l'IA qui agit",
+        "desc": "Posez une question sur vos commandes en retard, demandez-lui de créer une livraison, d'analyser votre mois. Il exécute — avec votre validation. Pas un chatbot : un agent.",
         "tag": "Tous les plans"
       },
       {
-        "title": "Pipeline Devis → Facture",
-        "desc": "Devis, commande et facture sont liés automatiquement. Convertis un devis en commande en un clic. PDF généré, email envoyé, paiement tracé.",
+        "title": "Devis → Commande → Facture",
+        "desc": "Le pipeline commercial en un flux continu. Convertissez un devis en commande en un clic. La facture suit automatiquement. PDF, email et suivi de paiement inclus.",
         "tag": "Inclus Basic"
       },
       {
         "title": "Stock par emplacement",
-        "desc": "Niveau de stock par emplacement physique (réserve, showroom, dépôt). Alertes seuil configurables. Historique de chaque mouvement.",
+        "desc": "Suivez vos niveaux de stock par emplacement physique : showroom, réserve, dépôt. Alertes de seuil configurables. Chaque mouvement est tracé.",
         "tag": "Inclus Basic"
       },
       {
-        "title": "Livraisons & App livreur",
-        "desc": "Kanban des livraisons, créneaux clients configurables. Les livreurs ont leur propre app mobile avec GPS — sans accès au reste de ton espace.",
+        "title": "Livraisons & App livreur GPS",
+        "desc": "Organisez vos livraisons en kanban, définissez des créneaux horaires pour vos clients. Vos livreurs ont une app dédiée avec GPS — sans accès à votre back-office.",
         "tag": "Pro & Enterprise"
       },
       {
-        "title": "SAV & Avoirs automatiques",
-        "desc": "Tickets SAV structurés par article de commande. Interventions tracées, historique client complet. Génération d'avoir en un clic depuis le ticket.",
+        "title": "SAV & Avoirs en un clic",
+        "desc": "Chaque ticket SAV est rattaché à une commande et à un article précis. Historique d'intervention complet. Générez un avoir directement depuis le ticket, sans ressaisie.",
         "tag": "Inclus Basic"
       },
       {
-        "title": "Workspace & Rôles",
-        "desc": "Espace isolé par magasin. 4 rôles : Propriétaire, Manager, Vendeur, Livreur — chacun voit uniquement ce dont il a besoin. Invitations sécurisées par lien unique.",
+        "title": "Équipe & Rôles isolés",
+        "desc": "Quatre rôles : Propriétaire, Manager, Vendeur, Livreur. Chacun accède uniquement à ce dont il a besoin. Invitations par lien sécurisé, révocables à tout moment.",
         "tag": "Tous les plans"
       }
     ]
@@ -123,14 +123,14 @@
   "neochat": {
     "badge": "NeoChat — IA agentique",
     "title": "L'IA qui",
-    "titleAccent": "agit pour toi.",
-    "desc": "NeoChat connaît ton stock, tes commandes, tes clients. Mais ce qui le distingue : il peut agir. Créer une livraison, mettre à jour une commande — et te demande toujours confirmation avant de toucher tes données.",
+    "titleAccent": "agit pour vous.",
+    "desc": "NeoChat n'est pas un chatbot générique. Il connaît votre stock, vos commandes, vos clients. Il peut rechercher, analyser, créer — et vous demande toujours confirmation avant d'écrire quoi que ce soit sur votre compte.",
     "demo": [
       { "role": "user", "text": "Quelles commandes sont en attente depuis plus de 3 jours ?" },
       { "role": "tool", "text": "search_orders · status: en_attente · délai: +3j" },
-      { "role": "ai", "text": "3 commandes bloquées : CMD-0287 (M. Dupont, 1 890€), CMD-0283 (SARL Renov, 8 750€), CMD-0279 (Mme Martin, 3 240€). Je programme les livraisons ?" },
+      { "role": "ai", "text": "3 commandes bloquées : CMD-0287 (M. Dupont, 1 890 €), CMD-0283 (SARL Renov, 8 750 €), CMD-0279 (Mme Martin, 3 240 €). Je programme les livraisons ?" },
       { "role": "user", "text": "Oui, Dupont demain matin" },
-      { "role": "tool", "text": "create_delivery · CMD-0287 · 09h-12h · confirmation requise" }
+      { "role": "tool", "text": "create_delivery · CMD-0287 · 09h–12h · confirmation requise" }
     ],
     "plans": [
       { "plan": "Basic", "tokens": "200 tokens/mois" },
@@ -140,57 +140,57 @@
   },
   "comparison": {
     "badge": "Comparaison",
-    "title": "Pourquoi choisir",
-    "titleAccent": "NeoFlow BOS ?",
-    "headers": ["Fonctionnalité", "NeoFlow BOS", "Logiciels secteur", "Logiciel générique"],
+    "title": "Ce que les autres",
+    "titleAccent": "ne font pas.",
+    "headers": ["Fonctionnalité", "NeoFlow BOS", "Logiciels secteur", "Outils génériques"],
     "rows": [
-      { "feature": "Tarifs transparents", "neoflow": true, "skara": false, "generic": true },
-      { "feature": "IA intégrée native", "neoflow": true, "skara": false, "generic": false },
-      { "feature": "App livreur GPS", "neoflow": true, "skara": false, "generic": false },
-      { "feature": "SAV avec avoirs", "neoflow": true, "skara": true, "generic": false },
-      { "feature": "Multi-magasins", "neoflow": true, "skara": true, "generic": false },
-      { "feature": "Design moderne", "neoflow": true, "skara": false, "generic": false },
-      { "feature": "Support français", "neoflow": true, "skara": true, "generic": false },
-      { "feature": "Essai gratuit", "neoflow": true, "skara": true, "generic": true }
+      { "feature": "Tarifs affichés publiquement", "neoflow": true, "skara": false, "generic": true },
+      { "feature": "IA agentique intégrée", "neoflow": true, "skara": false, "generic": false },
+      { "feature": "App livreur GPS dédiée", "neoflow": true, "skara": false, "generic": false },
+      { "feature": "SAV avec génération d'avoirs", "neoflow": true, "skara": true, "generic": false },
+      { "feature": "Gestion multi-magasins", "neoflow": true, "skara": true, "generic": false },
+      { "feature": "Interface moderne & fluide", "neoflow": true, "skara": false, "generic": false },
+      { "feature": "Support en français", "neoflow": true, "skara": true, "generic": false },
+      { "feature": "Essai gratuit sans carte", "neoflow": true, "skara": false, "generic": true }
     ]
   },
   "pricing": {
     "badge": "Tarifs",
-    "title": "Simple, transparent,",
-    "titleAccent": "sans surprise.",
+    "title": "Transparent.",
+    "titleAccent": "Sans mauvaise surprise.",
     "toggle": { "monthly": "Mensuel", "annual": "Annuel", "save": "2 mois offerts" },
     "plans": [
       {
         "name": "Basic",
         "monthlyPrice": 19,
         "annualPrice": 190,
-        "desc": "Pour démarrer et gérer ton magasin au quotidien.",
-        "cta": "Commencer gratuitement",
+        "desc": "Pour démarrer et reprendre le contrôle de votre gestion au quotidien.",
+        "cta": "Démarrer l'essai gratuit",
         "popular": false,
         "features": [
-          "2 membres maximum",
-          "Facturation & Devis illimités",
-          "Gestion commandes",
+          "Jusqu'à 2 membres",
+          "Devis & Facturation illimités",
+          "Gestion des commandes",
           "Stock & Emplacements",
           "CRM clients",
-          "SAV basique",
+          "SAV & Avoirs",
           "NeoChat IA (200 tokens/mois)",
-          "Support standard"
+          "Support par email"
         ]
       },
       {
         "name": "Pro",
         "monthlyPrice": 49,
         "annualPrice": 490,
-        "desc": "Pour les équipes en croissance avec des besoins avancés.",
-        "cta": "Commencer gratuitement",
+        "desc": "Pour les équipes qui veulent automatiser et aller plus loin.",
+        "cta": "Démarrer l'essai gratuit",
         "popular": true,
         "features": [
-          "10 membres maximum",
+          "Jusqu'à 10 membres",
           "Tout le plan Basic",
           "App livreur mobile + GPS",
-          "SAV avancé multi-intervenant",
-          "Agent IA (function calling)",
+          "SAV multi-intervenant",
+          "NeoChat agentique (function calling)",
           "NeoChat IA (2 000 tokens/mois)",
           "Dashboard financier avancé",
           "Support prioritaire"
@@ -200,69 +200,69 @@
         "name": "Enterprise",
         "monthlyPrice": null,
         "annualPrice": null,
-        "desc": "Pour les groupes et franchises multi-magasins.",
-        "cta": "Nous contacter",
+        "desc": "Pour les réseaux et groupes multi-magasins.",
+        "cta": "Demander une démo",
         "popular": false,
         "features": [
           "Membres illimités",
           "Tout le plan Pro",
           "Multi-workspace centralisé",
-          "Analytics consolidés multi-sites",
+          "Vision consolidée multi-sites",
           "NeoChat IA illimité",
-          "Facturation unique groupe",
-          "SLA garanti + support dédié",
-          "Formation équipes incluse"
+          "Facturation groupe unique",
+          "SLA garanti + interlocuteur dédié",
+          "Onboarding & formation inclus"
         ]
       }
     ]
   },
   "faq": {
     "badge": "FAQ",
-    "title": "Questions",
-    "titleAccent": "fréquentes.",
+    "title": "Vos questions,",
+    "titleAccent": "nos réponses.",
     "items": [
       {
-        "q": "Qu'est-ce que NeoFlow BOS ?",
-        "a": "NeoFlow BOS est un Business Operating System SaaS conçu spécifiquement pour les magasins de meubles et literie. Il centralise la gestion commerciale complète : factures, devis, commandes, stock, livraisons, SAV et IA dans un seul outil."
+        "q": "À qui s'adresse NeoFlow BOS ?",
+        "a": "NeoFlow BOS est conçu pour les propriétaires et dirigeants de magasins de meubles et literie — indépendants ou en réseau. Si vous gérez des devis, des commandes, des livraisons et un SAV, NeoFlow BOS a été pensé pour vous."
       },
       {
-        "q": "Pour quel type de magasin est conçu NeoFlow BOS ?",
-        "a": "NeoFlow BOS est conçu pour les magasins de meubles et de literie, qu'ils soient indépendants ou en réseau. Il s'adresse aux TPE/PME avec 1 à plusieurs dizaines d'employés, en France et dans les pays francophones et anglophones."
+        "q": "Dois-je tout réinstaller ou migrer mes données ?",
+        "a": "Aucune installation. NeoFlow BOS fonctionne entièrement depuis votre navigateur. Votre espace est prêt en 2 minutes. La migration de données existantes peut être discutée selon votre situation."
       },
       {
         "q": "Y a-t-il un engagement ?",
-        "a": "Non, aucun engagement. Tu peux annuler à tout moment depuis ton espace. L'abonnement annuel offre 2 mois gratuits par rapport au mensuel, mais reste résiliable."
+        "a": "Aucun engagement. Vous pouvez annuler à tout moment depuis votre espace. L'abonnement annuel vous offre 2 mois gratuits par rapport au mensuel, mais reste résiliable sans frais."
       },
       {
-        "q": "Qu'est-ce que NeoChat ?",
-        "a": "NeoChat est l'assistant IA intégré à NeoFlow BOS. Contrairement à un chatbot générique, il a accès à tes données business (stock, clients, factures, commandes) et peut répondre à des questions précises sur ton activité ou générer des documents."
-      },
-      {
-        "q": "Puis-je gérer plusieurs magasins ?",
-        "a": "Oui, avec le plan Enterprise tu peux gérer plusieurs magasins depuis un dashboard centralisé avec un seul abonnement. Les plans Basic et Pro gèrent un magasin à la fois."
+        "q": "NeoChat peut-il vraiment modifier mes données ?",
+        "a": "Oui — c'est ce qui le distingue d'un chatbot. NeoChat peut créer des livraisons, mettre à jour des statuts de commandes. Mais il vous demande toujours votre validation avant d'agir. Vous gardez le contrôle."
       },
       {
         "q": "Comment fonctionne l'essai gratuit ?",
-        "a": "Tu bénéficies de 7 jours d'essai gratuit sur le plan de ton choix. Tu as accès à toutes les fonctionnalités du plan sélectionné. L'essai commence dès la création de ton compte."
+        "a": "7 jours d'accès complet au plan de votre choix, sans carte bancaire requise. L'essai démarre dès la création de votre compte. À l'issue des 7 jours, vous choisissez si vous continuez."
       },
       {
-        "q": "Existe-t-il une version mobile ?",
-        "a": "NeoFlow BOS est optimisé pour mobile via le navigateur. De plus, les livreurs disposent d'une interface dédiée et simplifiée (plan Pro et Enterprise) optimisée pour une utilisation terrain avec GPS."
+        "q": "Mon équipe peut-elle utiliser NeoFlow BOS ?",
+        "a": "Oui. Vous invitez vos collaborateurs avec un rôle précis : Manager, Vendeur ou Livreur. Chacun accède uniquement à ce dont il a besoin. Les livreurs ont même leur propre app mobile dédiée."
       },
       {
-        "q": "Comment contacter le support ?",
-        "a": "Le support est disponible par email et chat intégré pour tous les plans. Les clients Enterprise bénéficient d'un interlocuteur dédié avec SLA garanti. Tu peux aussi utiliser le formulaire de contact sur notre site."
+        "q": "Puis-je gérer plusieurs magasins ?",
+        "a": "Oui, avec le plan Enterprise. Chaque magasin dispose de son propre espace isolé. Un dashboard de groupe centralisé est en cours de déploiement pour consolider la vision multi-sites."
+      },
+      {
+        "q": "Comment nous contacter en cas de problème ?",
+        "a": "Support disponible par email pour tous les plans. Les clients Pro bénéficient d'un support prioritaire. Les clients Enterprise ont un interlocuteur dédié avec SLA garanti."
       }
     ]
   },
   "finalCta": {
-    "badge": "Prêt à vous lancer ?",
-    "title": "Modernisez la gestion",
-    "titleAccent": "de votre magasin.",
-    "desc": "Rejoignez les premiers magasins à utiliser NeoFlow BOS. 7 jours gratuits, sans engagement, annulable à tout moment.",
-    "cta": "Commencer gratuitement",
+    "badge": "Prêts à changer d'ère ?",
+    "title": "Arrêtez de subir",
+    "titleAccent": "vos outils.",
+    "desc": "7 jours pour tester NeoFlow BOS sur votre vraie activité. Sans carte bancaire. Sans engagement. Si ce n'est pas fait pour vous, vous annulez en un clic.",
+    "cta": "Démarrer l'essai gratuit",
     "ctaSecondary": "Contacter l'équipe",
-    "mention": "Aucune carte bancaire requise pendant l'essai"
+    "mention": "Aucune carte bancaire requise · Annulation en un clic"
   },
   "footer": {
     "tagline": "Le Business Operating System pour les magasins de meubles et literie.",
@@ -283,7 +283,7 @@
   "contact": {
     "title": "Nous",
     "titleAccent": "contacter.",
-    "desc": "Une question, un problème ou une suggestion ? Notre équipe vous répond dans les 24h.",
+    "desc": "Une question avant de vous lancer, un problème technique ou une demande spécifique ? Notre équipe vous répond sous 24h.",
     "form": {
       "name": "Nom complet",
       "email": "Adresse email",
@@ -299,17 +299,17 @@
     "badge": "Enterprise",
     "title": "NeoFlow BOS pour",
     "titleAccent": "les réseaux.",
-    "desc": "Un espace centralisé pour piloter plusieurs magasins. Chaque point de vente garde son autonomie — vous gardez la vision globale.",
+    "desc": "Un espace centralisé pour piloter plusieurs magasins sans perdre la granularité. Chaque point de vente garde son autonomie — vous gardez la vision globale.",
     "features": [
-      { "title": "Un workspace par magasin", "desc": "Chaque magasin a son propre espace isolé : données, équipe, stock. Aucune fuite d'information entre points de vente.", "num": "01" },
-      { "title": "Dashboard groupe centralisé", "desc": "Consultez le CA, les commandes et les alertes stock de tous vos magasins depuis une seule vue. (En cours de déploiement)", "num": "02" },
-      { "title": "Membres illimités", "desc": "Invitez autant de collaborateurs que nécessaire sur chaque workspace. Aucun surcoût par siège.", "num": "03" },
-      { "title": "NeoChat IA illimité", "desc": "Tokens illimités sur tous vos espaces. L'IA agentique disponible pour toute votre équipe, sans compteur.", "num": "04" },
-      { "title": "Support dédié & SLA", "desc": "Un interlocuteur direct chez NeoFlow. Temps de réponse garanti, disponibilité prioritaire 7j/7.", "num": "05" },
-      { "title": "Onboarding accompagné", "desc": "On configure NeoFlow BOS avec vous et on forme vos équipes. Pas de démarrage à l'aveugle.", "num": "06" }
+      { "title": "Un workspace isolé par magasin", "desc": "Données, équipe et stock séparés par point de vente. Aucune fuite d'information entre vos magasins. Chaque responsable gère son périmètre.", "num": "01" },
+      { "title": "Vision consolidée multi-sites", "desc": "CA, commandes et alertes stock de tous vos magasins accessibles depuis un tableau de bord central. (En cours de déploiement)", "num": "02" },
+      { "title": "Membres illimités", "desc": "Invitez autant de collaborateurs que nécessaire sur chaque workspace, avec le rôle adapté. Aucun surcoût par siège.", "num": "03" },
+      { "title": "NeoChat IA illimité", "desc": "Tokens illimités sur l'ensemble de vos espaces. L'IA agentique disponible pour toute votre équipe, sans compteur.", "num": "04" },
+      { "title": "Interlocuteur dédié & SLA garanti", "desc": "Un contact direct chez NeoFlow. Temps de réponse garanti, disponibilité prioritaire 7j/7. Pas de ticket anonyme.", "num": "05" },
+      { "title": "Onboarding & formation inclus", "desc": "On configure NeoFlow BOS avec vous et on forme vos équipes. Votre déploiement est accompagné du premier au dernier jour.", "num": "06" }
     ],
     "form": {
-      "title": "Demander une démo",
+      "title": "Demander une démonstration",
       "company": "Nom de la société",
       "name": "Votre nom",
       "email": "Email professionnel",
@@ -318,7 +318,7 @@
       "message": "Message (facultatif)",
       "submit": "Envoyer la demande",
       "sending": "Envoi en cours...",
-      "success": "Demande reçue ! Nous vous contactons sous 24h.",
+      "success": "Demande reçue ! Nous vous contactons sous 24 à 48h.",
       "error": "Une erreur est survenue. Veuillez réessayer."
     }
   }

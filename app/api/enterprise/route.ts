@@ -1,6 +1,6 @@
 import { NextRequest, NextResponse } from 'next/server'
-import { Resend } from 'resend'
 import { sendTelegramMessage } from '@/lib/telegram'
+import { sendEmail } from '@/lib/mailer'
 import { enterpriseConfirmationEmail } from '@/lib/emailTemplates'
 
 export async function POST(req: NextRequest) {
@@ -24,14 +24,11 @@ ${message || '—'}`
 
     await sendTelegramMessage(text)
 
-    // Confirmation email to the prospect
-    const resendKey = process.env.RESEND_API_KEY
-    if (resendKey) {
-      const resend = new Resend(resendKey)
-      await resend.emails.send({
-        from: 'NeoFlow BOS <noreply@neoflow-agency.cloud>',
+    // Confirmation email via Zoho SMTP
+    if (process.env.ZOHO_EMAIL && process.env.ZOHO_PASSWORD) {
+      await sendEmail({
         to: email,
-        subject: `Votre demande Enterprise a bien été reçue — NeoFlow BOS`,
+        subject: 'Votre demande Enterprise a bien été reçue — NeoFlow BOS',
         html: enterpriseConfirmationEmail(name, company),
       })
     }

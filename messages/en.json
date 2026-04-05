@@ -4,82 +4,82 @@
     "pricing": "Pricing",
     "enterprise": "Enterprise",
     "contact": "Contact",
-    "cta": "Start for free",
+    "cta": "Free 7-day trial",
     "lang": "FR"
   },
   "hero": {
-    "badge": "7-day free trial · No commitment",
-    "title": "Your store management,",
-    "titleGradient": "reinvented.",
-    "subtitle": "The first Business Operating System built for furniture and bedding stores. Invoices, inventory, GPS deliveries, after-sales and AI — all in one.",
+    "badge": "7-day free trial · No commitment · No credit card",
+    "title": "Your store deserves better",
+    "titleGradient": "than 2010 software.",
+    "subtitle": "NeoFlow BOS brings together invoicing, inventory, GPS deliveries, after-sales and agentic AI into a single workspace. Built for furniture and bedding store owners who want their time back.",
     "cta": "Start for free",
     "ctaSecondary": "See features",
     "scrollHint": "Discover"
   },
   "pain": {
-    "title": "Running a store shouldn't look like this.",
-    "subtitle": "Outdated tools, scattered data, zero AI. NeoFlow BOS changes everything.",
+    "title": "You're losing time. Every single day.",
+    "subtitle": "Not because you work poorly — but because your tools haven't changed in 10 years.",
     "items": [
       {
-        "title": "Software that never evolves",
-        "desc": "The legacy solutions of the sector were designed 15 years ago. No AI, no automation, frozen interface."
+        "title": "Software frozen in 2010",
+        "desc": "The legacy tools in this industry were designed before smartphones. No AI, no automation, no evolution. You're paying for technical debt — and losing hours every week because of it."
       },
       {
-        "title": "Zero intelligence in your tools",
-        "desc": "You have to analyze everything manually. Competitors using AI make better decisions, faster."
+        "title": "Everything is manual, nothing connects",
+        "desc": "POS on one side, stock spreadsheet on another, delivery app somewhere else. You re-enter the same data three times. That time could go to your customers and your growth."
       },
       {
-        "title": "5 tools to do the work of one",
-        "desc": "POS software, stock spreadsheet, delivery app, CRM, after-sales tool — each separate, nothing synchronized."
+        "title": "Your competitors are adopting AI — you're not",
+        "desc": "Automation and AI are no longer for large corporations. Those who make the shift now gain better margins, better organisation, and a real competitive edge."
       }
     ]
   },
   "solution": {
     "badge": "The solution",
-    "title": "Everything your store needs.",
-    "titleAccent": "In a single tool.",
-    "desc": "NeoFlow BOS centralizes your entire commercial activity — from orders to delivery, from quotes to invoices, from support tickets to credit notes — with an AI that knows your business.",
+    "title": "One tool.",
+    "titleAccent": "Your entire operation.",
+    "desc": "NeoFlow BOS replaces the 5 separate tools you're using today: quotes, orders, invoices, inventory, GPS deliveries, after-sales with credit notes — and an AI that knows your business in real time.",
     "stats": [
       { "value": "14+", "label": "Integrated modules" },
-      { "value": "3", "label": "Adapted plans" },
+      { "value": "4", "label": "Configurable roles" },
       { "value": "7d", "label": "Free trial" },
-      { "value": "2", "label": "Languages" }
+      { "value": "0", "label": "Installation required" }
     ]
   },
   "howItWorks": {
     "badge": "How it works",
     "title": "Up and running in",
-    "titleAccent": "minutes.",
+    "titleAccent": "under an hour.",
     "steps": [
       {
         "num": "01",
-        "title": "Create your account",
-        "desc": "In 2 minutes, your space is ready. No installation, no complex setup — everything runs in the browser.",
+        "title": "Create your workspace in 2 minutes",
+        "desc": "No installation, no server setup. Your NeoFlow BOS workspace is ready as soon as you sign up — from any browser, on any device.",
         "tag": "Sign up"
       },
       {
         "num": "02",
-        "title": "Configure your store",
-        "desc": "Add your products, stock locations and team members. NeoFlow BOS adapts to your store's structure.",
+        "title": "Configure it to your store",
+        "desc": "Add your products, set up your stock locations, invite your team with the right role. NeoFlow BOS adapts to your structure — not the other way around.",
         "tag": "Setup"
       },
       {
         "num": "03",
-        "title": "Sell and invoice",
-        "desc": "Create quotes, orders and professional invoices in a few clicks. Automatic PDF, email delivery, payment tracking.",
+        "title": "Sell, quote, invoice",
+        "desc": "Create a quote in 30 seconds, convert it to an order in one click, issue the invoice automatically. PDF generated, email sent, payment tracked.",
         "tag": "Invoicing"
       },
       {
         "num": "04",
-        "title": "Deliver with GPS",
-        "desc": "Plan and assign deliveries. Your drivers have their own mobile app with GPS navigation and delivery confirmation.",
+        "title": "Manage deliveries with GPS",
+        "desc": "Assign deliveries from the kanban board. Your drivers have a dedicated mobile app with GPS navigation — completely isolated from your back office.",
         "tag": "Deliveries"
       },
       {
         "num": "05",
-        "title": "Pilot with AI",
-        "desc": "NeoChat knows your business. Ask questions in plain language, get instant insights and generate documents.",
-        "tag": "Intelligence"
+        "title": "Let AI work for you",
+        "desc": "NeoChat queries your live data, generates documents and can act on your account — always with your confirmation. This is not a chatbot. It's an agent.",
+        "tag": "Agentic AI"
       }
     ]
   },
@@ -89,33 +89,33 @@
     "titleAccent": "your trade.",
     "items": [
       {
-        "title": "NeoChat — Agentic AI",
-        "desc": "Not a chatbot. An AI agent that acts: searches your orders, creates deliveries, updates statuses — always asking for your confirmation before touching any data.",
+        "title": "NeoChat — AI that acts",
+        "desc": "Ask about overdue orders, request a delivery, get a monthly analysis. It executes — with your approval. Not a chatbot: an agent that knows your business.",
         "tag": "All plans"
       },
       {
-        "title": "Quote → Invoice Pipeline",
-        "desc": "Quotes, orders and invoices are automatically linked. Convert a quote to an order in one click. PDF generated, email sent, payment tracked.",
+        "title": "Quote → Order → Invoice",
+        "desc": "Your commercial pipeline as one continuous flow. Convert a quote to an order in one click. The invoice follows automatically. PDF, email and payment tracking included.",
         "tag": "Included Basic"
       },
       {
-        "title": "Stock by Location",
-        "desc": "Stock levels per physical location (warehouse, showroom, depot). Configurable threshold alerts. Full movement history.",
+        "title": "Stock by location",
+        "desc": "Track stock levels per physical location: showroom, warehouse, depot. Configurable threshold alerts. Every movement is logged.",
         "tag": "Included Basic"
       },
       {
-        "title": "Deliveries & Driver App",
-        "desc": "Delivery kanban, configurable customer time slots. Drivers get their own mobile app with GPS — without access to the rest of your workspace.",
+        "title": "Deliveries & GPS driver app",
+        "desc": "Organise deliveries in a kanban, set customer time slots. Your drivers have a dedicated GPS app — with no access to your back office.",
         "tag": "Pro & Enterprise"
       },
       {
-        "title": "After-Sales & Auto Credits",
-        "desc": "Structured SAV tickets per order item. Tracked interventions, full customer history. One-click credit note generation directly from the ticket.",
+        "title": "After-sales & one-click credits",
+        "desc": "Every after-sales ticket is linked to a specific order and item. Full intervention history. Generate a credit note directly from the ticket — no re-entry.",
         "tag": "Included Basic"
       },
       {
-        "title": "Workspace & Roles",
-        "desc": "Isolated space per store. 4 roles: Owner, Manager, Salesperson, Driver — each sees only what they need. Secure invitations via unique link.",
+        "title": "Team & isolated roles",
+        "desc": "Four roles: Owner, Manager, Salesperson, Driver. Each person sees only what they need. Invitations via secure link, revocable at any time.",
         "tag": "All plans"
       }
     ]
@@ -124,13 +124,13 @@
     "badge": "NeoChat — Agentic AI",
     "title": "The AI that",
     "titleAccent": "acts for you.",
-    "desc": "NeoChat knows your inventory, orders and customers. But what sets it apart: it can act. Create a delivery, update an order — and always asks for your confirmation before touching your data.",
+    "desc": "NeoChat is not a generic chatbot. It knows your inventory, your orders, your customers. It can search, analyse, and create — and always asks for your confirmation before writing anything to your account.",
     "demo": [
       { "role": "user", "text": "Which orders have been pending for more than 3 days?" },
       { "role": "tool", "text": "search_orders · status: pending · delay: +3d" },
       { "role": "ai", "text": "3 blocked orders: ORD-0287 (Mr. Smith, £1,890), ORD-0283 (Renov Ltd, £8,750), ORD-0279 (Mrs. Martin, £3,240). Shall I schedule the deliveries?" },
       { "role": "user", "text": "Yes, Smith tomorrow morning" },
-      { "role": "tool", "text": "create_delivery · ORD-0287 · 09h-12h · confirmation required" }
+      { "role": "tool", "text": "create_delivery · ORD-0287 · 09h–12h · confirmation required" }
     ],
     "plans": [
       { "plan": "Basic", "tokens": "200 tokens/month" },
@@ -140,57 +140,57 @@
   },
   "comparison": {
     "badge": "Comparison",
-    "title": "Why choose",
-    "titleAccent": "NeoFlow BOS?",
-    "headers": ["Feature", "NeoFlow BOS", "Sector Software", "Generic Software"],
+    "title": "What the others",
+    "titleAccent": "don't offer.",
+    "headers": ["Feature", "NeoFlow BOS", "Sector software", "Generic tools"],
     "rows": [
-      { "feature": "Transparent pricing", "neoflow": true, "skara": false, "generic": true },
-      { "feature": "Native AI integration", "neoflow": true, "skara": false, "generic": false },
-      { "feature": "GPS delivery app", "neoflow": true, "skara": false, "generic": false },
-      { "feature": "After-sales with credits", "neoflow": true, "skara": true, "generic": false },
-      { "feature": "Multi-store support", "neoflow": true, "skara": true, "generic": false },
-      { "feature": "Modern design", "neoflow": true, "skara": false, "generic": false },
-      { "feature": "French support", "neoflow": true, "skara": true, "generic": false },
-      { "feature": "Free trial", "neoflow": true, "skara": true, "generic": true }
+      { "feature": "Publicly listed pricing", "neoflow": true, "skara": false, "generic": true },
+      { "feature": "Native agentic AI", "neoflow": true, "skara": false, "generic": false },
+      { "feature": "Dedicated GPS driver app", "neoflow": true, "skara": false, "generic": false },
+      { "feature": "After-sales with credit notes", "neoflow": true, "skara": true, "generic": false },
+      { "feature": "Multi-store management", "neoflow": true, "skara": true, "generic": false },
+      { "feature": "Modern, fluid interface", "neoflow": true, "skara": false, "generic": false },
+      { "feature": "French-language support", "neoflow": true, "skara": true, "generic": false },
+      { "feature": "Free trial, no card required", "neoflow": true, "skara": false, "generic": true }
     ]
   },
   "pricing": {
     "badge": "Pricing",
-    "title": "Simple, transparent,",
-    "titleAccent": "no surprises.",
+    "title": "Transparent.",
+    "titleAccent": "No nasty surprises.",
     "toggle": { "monthly": "Monthly", "annual": "Annual", "save": "2 months free" },
     "plans": [
       {
         "name": "Basic",
         "monthlyPrice": 19,
         "annualPrice": 190,
-        "desc": "To get started and manage your store daily.",
-        "cta": "Start for free",
+        "desc": "To take back control of your daily store management.",
+        "cta": "Start free trial",
         "popular": false,
         "features": [
           "Up to 2 members",
-          "Unlimited invoicing & quotes",
+          "Unlimited quotes & invoices",
           "Order management",
           "Stock & Locations",
           "Customer CRM",
-          "Basic after-sales",
+          "After-sales & credit notes",
           "NeoChat AI (200 tokens/month)",
-          "Standard support"
+          "Email support"
         ]
       },
       {
         "name": "Pro",
         "monthlyPrice": 49,
         "annualPrice": 490,
-        "desc": "For growing teams with advanced needs.",
-        "cta": "Start for free",
+        "desc": "For teams ready to automate and scale.",
+        "cta": "Start free trial",
         "popular": true,
         "features": [
           "Up to 10 members",
           "Everything in Basic",
           "Mobile driver app + GPS",
-          "Advanced multi-agent after-sales",
-          "AI Agent (function calling)",
+          "Multi-agent after-sales",
+          "Agentic NeoChat (function calling)",
           "NeoChat AI (2,000 tokens/month)",
           "Advanced financial dashboard",
           "Priority support"
@@ -200,69 +200,69 @@
         "name": "Enterprise",
         "monthlyPrice": null,
         "annualPrice": null,
-        "desc": "For multi-store groups and franchises.",
-        "cta": "Contact us",
+        "desc": "For retail networks and multi-store groups.",
+        "cta": "Request a demo",
         "popular": false,
         "features": [
           "Unlimited members",
           "Everything in Pro",
-          "Centralized multi-workspace",
-          "Consolidated multi-store analytics",
+          "Centralised multi-workspace",
+          "Consolidated multi-store view",
           "Unlimited NeoChat AI",
           "Single group billing",
-          "Guaranteed SLA + dedicated support",
-          "Team training included"
+          "Guaranteed SLA + dedicated contact",
+          "Onboarding & training included"
         ]
       }
     ]
   },
   "faq": {
     "badge": "FAQ",
-    "title": "Frequently asked",
-    "titleAccent": "questions.",
+    "title": "Your questions,",
+    "titleAccent": "answered.",
     "items": [
       {
-        "q": "What is NeoFlow BOS?",
-        "a": "NeoFlow BOS is a SaaS Business Operating System designed specifically for furniture and bedding stores. It centralizes complete commercial management: invoices, quotes, orders, inventory, deliveries, after-sales and AI in a single tool."
+        "q": "Who is NeoFlow BOS for?",
+        "a": "NeoFlow BOS is designed for owners and managers of furniture and bedding stores — independent or part of a network. If you manage quotes, orders, deliveries and after-sales, NeoFlow BOS was built for you."
       },
       {
-        "q": "What type of store is NeoFlow BOS designed for?",
-        "a": "NeoFlow BOS is designed for furniture and bedding stores, whether independent or part of a network. It targets SMBs with 1 to several dozen employees, in France and in French and English-speaking countries."
+        "q": "Do I need to reinstall anything or migrate data?",
+        "a": "No installation required. NeoFlow BOS runs entirely in your browser. Your workspace is ready in 2 minutes. Data migration from existing tools can be discussed based on your situation."
       },
       {
         "q": "Is there a commitment?",
-        "a": "No commitment whatsoever. You can cancel at any time from your account. The annual subscription offers 2 months free compared to monthly, but can still be cancelled."
+        "a": "None whatsoever. Cancel at any time from your account. The annual plan gives you 2 months free vs monthly, but remains cancellable with no fees."
       },
       {
-        "q": "What is NeoChat?",
-        "a": "NeoChat is the AI assistant integrated into NeoFlow BOS. Unlike a generic chatbot, it has access to your business data (inventory, customers, invoices, orders) and can answer specific questions about your activity or generate documents."
-      },
-      {
-        "q": "Can I manage multiple stores?",
-        "a": "Yes, with the Enterprise plan you can manage multiple stores from a centralized dashboard with a single subscription. Basic and Pro plans manage one store at a time."
+        "q": "Can NeoChat actually modify my data?",
+        "a": "Yes — that's what sets it apart from a chatbot. NeoChat can create deliveries and update order statuses. But it always asks for your approval before acting. You stay in control."
       },
       {
         "q": "How does the free trial work?",
-        "a": "You get a 7-day free trial on the plan of your choice. You have access to all features of the selected plan. The trial starts as soon as you create your account."
+        "a": "7 days of full access to the plan of your choice, with no credit card required. The trial starts when you create your account. After 7 days, you decide whether to continue."
       },
       {
-        "q": "Is there a mobile version?",
-        "a": "NeoFlow BOS is mobile-optimized via the browser. Additionally, drivers have a dedicated simplified interface (Pro and Enterprise plans) optimized for field use with GPS."
+        "q": "Can my team use NeoFlow BOS?",
+        "a": "Yes. You invite team members with a specific role: Manager, Salesperson or Driver. Each person only sees what they need. Drivers even have their own dedicated mobile app."
       },
       {
-        "q": "How do I contact support?",
-        "a": "Support is available by email and integrated chat for all plans. Enterprise customers benefit from a dedicated contact with guaranteed SLA. You can also use the contact form on our website."
+        "q": "Can I manage multiple stores?",
+        "a": "Yes, with the Enterprise plan. Each store has its own isolated workspace. A consolidated group dashboard is currently being rolled out to provide a unified multi-site view."
+      },
+      {
+        "q": "How do I reach support if I have an issue?",
+        "a": "Email support for all plans. Pro customers get priority support. Enterprise customers have a dedicated contact with a guaranteed SLA."
       }
     ]
   },
   "finalCta": {
-    "badge": "Ready to get started?",
-    "title": "Modernize the management",
-    "titleAccent": "of your store.",
-    "desc": "Join the first stores to use NeoFlow BOS. 7 days free, no commitment, cancel anytime.",
-    "cta": "Start for free",
+    "badge": "Ready to move forward?",
+    "title": "Stop working around",
+    "titleAccent": "your tools.",
+    "desc": "7 days to test NeoFlow BOS on your real activity. No credit card. No commitment. If it's not right for you, cancel in one click.",
+    "cta": "Start free trial",
     "ctaSecondary": "Contact the team",
-    "mention": "No credit card required during trial"
+    "mention": "No credit card required · Cancel anytime"
   },
   "footer": {
     "tagline": "The Business Operating System for furniture and bedding stores.",
@@ -281,9 +281,9 @@
     "copyright": "© 2025 NeoFlow Agency. All rights reserved."
   },
   "contact": {
-    "title": "Contact",
-    "titleAccent": "us.",
-    "desc": "A question, a problem or a suggestion? Our team replies within 24 hours.",
+    "title": "Get in",
+    "titleAccent": "touch.",
+    "desc": "A question before you sign up, a technical issue or a specific request? Our team replies within 24 hours.",
     "form": {
       "name": "Full name",
       "email": "Email address",
@@ -299,26 +299,26 @@
     "badge": "Enterprise",
     "title": "NeoFlow BOS for",
     "titleAccent": "retail networks.",
-    "desc": "A centralized space to manage multiple stores. Each location keeps its autonomy — you keep the global picture.",
+    "desc": "A centralised space to run multiple stores without losing granularity. Each location keeps its autonomy — you keep the full picture.",
     "features": [
-      { "title": "One workspace per store", "desc": "Each store has its own isolated space: data, team, stock. No information leak between locations.", "num": "01" },
-      { "title": "Group dashboard", "desc": "View revenue, orders and stock alerts across all your stores from a single view. (Rolling out soon)", "num": "02" },
-      { "title": "Unlimited members", "desc": "Invite as many collaborators as needed to each workspace. No per-seat surcharge.", "num": "03" },
+      { "title": "One isolated workspace per store", "desc": "Data, team and stock separated by location. No information leak between your stores. Each manager handles their own scope.", "num": "01" },
+      { "title": "Consolidated multi-store view", "desc": "Revenue, orders and stock alerts from all your stores in one central dashboard. (Rolling out soon)", "num": "02" },
+      { "title": "Unlimited members", "desc": "Invite as many collaborators as needed on each workspace, with the right role. No per-seat surcharge.", "num": "03" },
       { "title": "Unlimited NeoChat AI", "desc": "Unlimited tokens across all your workspaces. Agentic AI available for your entire team, no counter.", "num": "04" },
-      { "title": "Dedicated support & SLA", "desc": "A direct contact at NeoFlow. Guaranteed response time, priority availability 7 days a week.", "num": "05" },
-      { "title": "Guided onboarding", "desc": "We configure NeoFlow BOS with you and train your teams. No blind start.", "num": "06" }
+      { "title": "Dedicated contact & guaranteed SLA", "desc": "A direct line to NeoFlow. Guaranteed response time, priority availability 7 days a week. No anonymous ticket queue.", "num": "05" },
+      { "title": "Onboarding & training included", "desc": "We configure NeoFlow BOS with you and train your teams. Your rollout is supported from day one to go-live.", "num": "06" }
     ],
     "form": {
-      "title": "Request a demo",
+      "title": "Request a demonstration",
       "company": "Company name",
       "name": "Your name",
       "email": "Business email",
-      "phone": "Phone",
+      "phone": "Phone number",
       "stores": "Number of stores",
       "message": "Message (optional)",
       "submit": "Send request",
       "sending": "Sending...",
-      "success": "Request received! We'll contact you within 24 hours.",
+      "success": "Request received! We'll be in touch within 24–48 hours.",
       "error": "An error occurred. Please try again."
     }
   }
