@@ -1,0 +1,287 @@
+{
+  "nav": {
+    "features": "Fonctionnalités",
+    "pricing": "Tarifs",
+    "enterprise": "Entreprise",
+    "contact": "Contact",
+    "cta": "Essayer gratuitement",
+    "lang": "EN"
+  },
+  "hero": {
+    "badge": "7 jours d'essai gratuit · Sans engagement",
+    "title": "La gestion de ton magasin,",
+    "titleGradient": "réinventée.",
+    "subtitle": "Le premier Business Operating System pensé pour les magasins de meubles et literie. Factures, stock, livraisons GPS, SAV et IA — tout en un.",
+    "cta": "Commencer gratuitement",
+    "ctaSecondary": "Voir les fonctionnalités",
+    "scrollHint": "Découvrir"
+  },
+  "pain": {
+    "title": "La gestion d'un magasin ne devrait pas ressembler à ça.",
+    "subtitle": "Des outils vieillissants, des données éparpillées, zéro IA. NeoFlow BOS change tout.",
+    "items": [
+      {
+        "title": "Des logiciels qui n'évoluent pas",
+        "desc": "Skara et ses semblables ont été conçus il y a 15 ans. Pas d'IA, pas d'automatisation, interface figée."
+      },
+      {
+        "title": "Zéro intelligence dans tes outils",
+        "desc": "Tu dois tout analyser manuellement. Tes concurrents qui utilisent l'IA prennent de meilleures décisions, plus vite."
+      },
+      {
+        "title": "5 outils pour faire le travail d'un seul",
+        "desc": "Logiciel de caisse, tableur stock, app livraison, CRM client, outil SAV — chacun séparé, rien de synchronisé."
+      }
+    ]
+  },
+  "solution": {
+    "badge": "La solution",
+    "title": "Tout ce dont ton magasin a besoin.",
+    "titleAccent": "Dans un seul outil.",
+    "desc": "NeoFlow BOS centralise toute ton activité commerciale — des commandes à la livraison, du devis à la facture, du ticket SAV à l'avoir — avec une IA qui connaît ton business.",
+    "stats": [
+      { "value": "14+", "label": "Modules intégrés" },
+      { "value": "3", "label": "Plans adaptés" },
+      { "value": "7j", "label": "Essai gratuit" },
+      { "value": "2", "label": "Langues" }
+    ]
+  },
+  "features": {
+    "badge": "Fonctionnalités",
+    "title": "Tout ce dont tu as besoin.",
+    "titleAccent": "Rien de superflu.",
+    "items": [
+      {
+        "title": "Facturation & Devis",
+        "desc": "Crée des factures et devis professionnels en quelques secondes. PDF automatique, envoi email, suivi des paiements.",
+        "tag": "Inclus Basic"
+      },
+      {
+        "title": "Stock en temps réel",
+        "desc": "Niveaux de stock par emplacement, alertes seuil configurables, mouvements historiques.",
+        "tag": "Inclus Basic"
+      },
+      {
+        "title": "Livraisons GPS",
+        "desc": "Kanban de suivi, créneaux horaires clients, app mobile livreur avec GPS temps réel.",
+        "tag": "Pro & Enterprise"
+      },
+      {
+        "title": "SAV Complet",
+        "desc": "Tickets structurés, historique des interventions, actions par article, génération d'avoirs automatique.",
+        "tag": "Inclus Basic"
+      },
+      {
+        "title": "NeoChat IA",
+        "desc": "Un assistant IA qui connaît ton business. Répond à tes questions, génère des documents, analyse tes données.",
+        "tag": "Tous les plans"
+      },
+      {
+        "title": "Multi-magasins",
+        "desc": "Gérez plusieurs magasins depuis un dashboard centralisé. Analytics consolidés, membres partagés.",
+        "tag": "Enterprise"
+      }
+    ]
+  },
+  "neochat": {
+    "badge": "NeoChat IA",
+    "title": "L'IA qui connaît",
+    "titleAccent": "ton business.",
+    "desc": "NeoChat n'est pas un chatbot générique. Il a accès à ton stock, tes commandes, tes clients et tes factures. Pose-lui n'importe quelle question sur ton activité — il te répond en temps réel.",
+    "demo": [
+      { "role": "user", "text": "Quel est mon chiffre d'affaires ce mois ?" },
+      { "role": "ai", "text": "Ce mois-ci, ton CA est de 24 380 €, en hausse de +12% vs le mois dernier. Tes 3 meilleures ventes sont les matelas Simmons, les cadres Habitat et les tables Bloomingville." },
+      { "role": "user", "text": "Génère une facture pour le client Dupont" },
+      { "role": "ai", "text": "Facture FA-2025-0142 créée pour M. Dupont (12 rue de la Paix, Paris). Total TTC : 1 890 €. PDF disponible et email envoyé." }
+    ],
+    "plans": [
+      { "plan": "Basic", "tokens": "200 tokens/mois" },
+      { "plan": "Pro", "tokens": "2 000 tokens/mois" },
+      { "plan": "Enterprise", "tokens": "Illimité" }
+    ]
+  },
+  "comparison": {
+    "badge": "Comparaison",
+    "title": "Pourquoi choisir",
+    "titleAccent": "NeoFlow BOS ?",
+    "headers": ["Fonctionnalité", "NeoFlow BOS", "Skara", "Logiciel générique"],
+    "rows": [
+      { "feature": "Tarifs transparents", "neoflow": true, "skara": false, "generic": true },
+      { "feature": "IA intégrée native", "neoflow": true, "skara": false, "generic": false },
+      { "feature": "App livreur GPS", "neoflow": true, "skara": false, "generic": false },
+      { "feature": "SAV avec avoirs", "neoflow": true, "skara": true, "generic": false },
+      { "feature": "Multi-magasins", "neoflow": true, "skara": true, "generic": false },
+      { "feature": "Design moderne", "neoflow": true, "skara": false, "generic": false },
+      { "feature": "Support français", "neoflow": true, "skara": true, "generic": false },
+      { "feature": "Essai gratuit", "neoflow": true, "skara": true, "generic": true }
+    ]
+  },
+  "pricing": {
+    "badge": "Tarifs",
+    "title": "Simple, transparent,",
+    "titleAccent": "sans surprise.",
+    "toggle": { "monthly": "Mensuel", "annual": "Annuel", "save": "2 mois offerts" },
+    "plans": [
+      {
+        "name": "Basic",
+        "monthlyPrice": 19,
+        "annualPrice": 190,
+        "desc": "Pour démarrer et gérer ton magasin au quotidien.",
+        "cta": "Commencer gratuitement",
+        "popular": false,
+        "features": [
+          "2 membres maximum",
+          "Facturation & Devis illimités",
+          "Gestion commandes",
+          "Stock & Emplacements",
+          "CRM clients",
+          "SAV basique",
+          "NeoChat IA (200 tokens/mois)",
+          "Support standard"
+        ]
+      },
+      {
+        "name": "Pro",
+        "monthlyPrice": 49,
+        "annualPrice": 490,
+        "desc": "Pour les équipes en croissance avec des besoins avancés.",
+        "cta": "Commencer gratuitement",
+        "popular": true,
+        "features": [
+          "10 membres maximum",
+          "Tout le plan Basic",
+          "App livreur mobile + GPS",
+          "SAV avancé multi-intervenant",
+          "Agent IA (function calling)",
+          "NeoChat IA (2 000 tokens/mois)",
+          "Dashboard financier avancé",
+          "Support prioritaire"
+        ]
+      },
+      {
+        "name": "Enterprise",
+        "monthlyPrice": null,
+        "annualPrice": null,
+        "desc": "Pour les groupes et franchises multi-magasins.",
+        "cta": "Nous contacter",
+        "popular": false,
+        "features": [
+          "Membres illimités",
+          "Tout le plan Pro",
+          "Multi-workspace centralisé",
+          "Analytics consolidés multi-sites",
+          "NeoChat IA illimité",
+          "Facturation unique groupe",
+          "SLA garanti + support dédié",
+          "Formation équipes incluse"
+        ]
+      }
+    ]
+  },
+  "faq": {
+    "badge": "FAQ",
+    "title": "Questions",
+    "titleAccent": "fréquentes.",
+    "items": [
+      {
+        "q": "Qu'est-ce que NeoFlow BOS ?",
+        "a": "NeoFlow BOS est un Business Operating System SaaS conçu spécifiquement pour les magasins de meubles et literie. Il centralise la gestion commerciale complète : factures, devis, commandes, stock, livraisons, SAV et IA dans un seul outil."
+      },
+      {
+        "q": "Pour quel type de magasin est conçu NeoFlow BOS ?",
+        "a": "NeoFlow BOS est conçu pour les magasins de meubles et de literie, qu'ils soient indépendants ou en réseau. Il s'adresse aux TPE/PME avec 1 à plusieurs dizaines d'employés, en France et dans les pays francophones et anglophones."
+      },
+      {
+        "q": "Y a-t-il un engagement ?",
+        "a": "Non, aucun engagement. Tu peux annuler à tout moment depuis ton espace. L'abonnement annuel offre 2 mois gratuits par rapport au mensuel, mais reste résiliable."
+      },
+      {
+        "q": "Qu'est-ce que NeoChat ?",
+        "a": "NeoChat est l'assistant IA intégré à NeoFlow BOS. Contrairement à un chatbot générique, il a accès à tes données business (stock, clients, factures, commandes) et peut répondre à des questions précises sur ton activité ou générer des documents."
+      },
+      {
+        "q": "Puis-je gérer plusieurs magasins ?",
+        "a": "Oui, avec le plan Enterprise tu peux gérer plusieurs magasins depuis un dashboard centralisé avec un seul abonnement. Les plans Basic et Pro gèrent un magasin à la fois."
+      },
+      {
+        "q": "Comment fonctionne l'essai gratuit ?",
+        "a": "Tu bénéficies de 7 jours d'essai gratuit sur le plan de ton choix. Tu as accès à toutes les fonctionnalités du plan sélectionné. L'essai commence dès la création de ton compte."
+      },
+      {
+        "q": "Existe-t-il une version mobile ?",
+        "a": "NeoFlow BOS est optimisé pour mobile via le navigateur. De plus, les livreurs disposent d'une interface dédiée et simplifiée (plan Pro et Enterprise) optimisée pour une utilisation terrain avec GPS."
+      },
+      {
+        "q": "Comment contacter le support ?",
+        "a": "Le support est disponible par email et chat intégré pour tous les plans. Les clients Enterprise bénéficient d'un interlocuteur dédié avec SLA garanti. Tu peux aussi utiliser le formulaire de contact sur notre site."
+      }
+    ]
+  },
+  "finalCta": {
+    "badge": "Prêt à vous lancer ?",
+    "title": "Modernisez la gestion",
+    "titleAccent": "de votre magasin.",
+    "desc": "Rejoignez les premiers magasins à utiliser NeoFlow BOS. 7 jours gratuits, sans engagement, annulable à tout moment.",
+    "cta": "Commencer gratuitement",
+    "ctaSecondary": "Contacter l'équipe",
+    "mention": "Aucune carte bancaire requise pendant l'essai"
+  },
+  "footer": {
+    "tagline": "Le Business Operating System pour les magasins de meubles et literie.",
+    "product": "Produit",
+    "company": "Entreprise",
+    "legal": "Légal",
+    "links": {
+      "features": "Fonctionnalités",
+      "pricing": "Tarifs",
+      "enterprise": "Enterprise",
+      "contact": "Contact",
+      "mentions": "Mentions légales",
+      "privacy": "Politique de confidentialité",
+      "cgu": "CGU"
+    },
+    "copyright": "© 2025 NeoFlow Agency. Tous droits réservés."
+  },
+  "contact": {
+    "title": "Nous",
+    "titleAccent": "contacter.",
+    "desc": "Une question, un problème ou une suggestion ? Notre équipe vous répond dans les 24h.",
+    "form": {
+      "name": "Nom complet",
+      "email": "Adresse email",
+      "subject": "Sujet",
+      "message": "Message",
+      "submit": "Envoyer le message",
+      "sending": "Envoi en cours...",
+      "success": "Message envoyé ! Nous vous répondons sous 24h.",
+      "error": "Une erreur est survenue. Veuillez réessayer."
+    }
+  },
+  "enterprise": {
+    "badge": "Enterprise",
+    "title": "NeoFlow BOS",
+    "titleAccent": "pour les groupes.",
+    "desc": "Un abonnement unique pour tous vos magasins. Dashboard centralisé, analytics consolidés, membres illimités.",
+    "features": [
+      { "title": "Multi-workspace centralisé", "desc": "Gérez N magasins depuis une interface unique. Chaque magasin garde son espace isolé." },
+      { "title": "Analytics consolidés", "desc": "CA, commandes et stocks agrégés sur tous vos points de vente en temps réel." },
+      { "title": "Membres illimités", "desc": "Ajoutez autant de collaborateurs que nécessaire, sans surcoût." },
+      { "title": "NeoChat IA illimité", "desc": "Tokens illimités pour toute votre équipe et tous vos magasins." },
+      { "title": "SLA garanti", "desc": "Temps de réponse garanti, interlocuteur dédié, support prioritaire 7j/7." },
+      { "title": "Formation équipes", "desc": "Onboarding et formation de vos équipes inclus dans le plan Enterprise." }
+    ],
+    "form": {
+      "title": "Demander une démo",
+      "company": "Nom de la société",
+      "name": "Votre nom",
+      "email": "Email professionnel",
+      "phone": "Téléphone",
+      "stores": "Nombre de magasins",
+      "message": "Message (facultatif)",
+      "submit": "Envoyer la demande",
+      "sending": "Envoi en cours...",
+      "success": "Demande reçue ! Nous vous contactons sous 24h.",
+      "error": "Une erreur est survenue. Veuillez réessayer."
+    }
+  }
+}
