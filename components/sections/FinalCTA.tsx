@@ -26,6 +26,23 @@ export default function FinalCTA() {
         }}
       />
 
+      {/* Floating orbs */}
+      <motion.div
+        animate={{ y: [0, -20, 0], opacity: [0.3, 0.6, 0.3] }}
+        transition={{ duration: 6, repeat: Infinity, ease: 'easeInOut' }}
+        className="absolute top-20 left-16 w-3 h-3 rounded-full bg-[#6B77E8] blur-sm pointer-events-none"
+      />
+      <motion.div
+        animate={{ y: [0, 15, 0], opacity: [0.2, 0.5, 0.2] }}
+        transition={{ duration: 8, repeat: Infinity, ease: 'easeInOut', delay: 1 }}
+        className="absolute bottom-24 right-20 w-2 h-2 rounded-full bg-[#B4B8F8] blur-sm pointer-events-none"
+      />
+      <motion.div
+        animate={{ y: [0, -12, 0], x: [0, 8, 0], opacity: [0.2, 0.4, 0.2] }}
+        transition={{ duration: 7, repeat: Infinity, ease: 'easeInOut', delay: 2 }}
+        className="absolute top-1/2 right-32 w-4 h-4 rounded-full bg-[#313ADF]/40 blur-md pointer-events-none"
+      />
+
       <div className="relative z-10 max-w-4xl mx-auto px-6 text-center">
         <motion.div
           initial={{ opacity: 0, y: 32 }}

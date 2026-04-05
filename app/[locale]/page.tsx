@@ -1,8 +1,10 @@
 import Navbar from '@/components/layout/Navbar'
 import Footer from '@/components/layout/Footer'
 import Hero from '@/components/sections/Hero'
+import Marquee from '@/components/ui/Marquee'
 import PainPoints from '@/components/sections/PainPoints'
 import SolutionOverview from '@/components/sections/SolutionOverview'
+import HowItWorks from '@/components/sections/HowItWorks'
 import FeaturesBento from '@/components/sections/FeaturesBento'
 import NeoChatSection from '@/components/sections/NeoChatSection'
 import ComparisonTable from '@/components/sections/ComparisonTable'
@@ -16,10 +18,12 @@ export default function HomePage() {
       <Navbar />
       <main>
         <Hero />
-        <div className="section-divider" />
+        <Marquee />
         <PainPoints />
         <div className="section-divider" />
         <SolutionOverview />
+        <div className="section-divider" />
+        <HowItWorks />
         <div className="section-divider" />
         <FeaturesBento />
         <div className="section-divider" />

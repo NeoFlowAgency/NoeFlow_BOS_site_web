@@ -46,53 +46,91 @@
       { "value": "2", "label": "Languages" }
     ]
   },
+  "howItWorks": {
+    "badge": "How it works",
+    "title": "Up and running in",
+    "titleAccent": "minutes.",
+    "steps": [
+      {
+        "num": "01",
+        "title": "Create your account",
+        "desc": "In 2 minutes, your space is ready. No installation, no complex setup — everything runs in the browser.",
+        "tag": "Sign up"
+      },
+      {
+        "num": "02",
+        "title": "Configure your store",
+        "desc": "Add your products, stock locations and team members. NeoFlow BOS adapts to your store's structure.",
+        "tag": "Setup"
+      },
+      {
+        "num": "03",
+        "title": "Sell and invoice",
+        "desc": "Create quotes, orders and professional invoices in a few clicks. Automatic PDF, email delivery, payment tracking.",
+        "tag": "Invoicing"
+      },
+      {
+        "num": "04",
+        "title": "Deliver with GPS",
+        "desc": "Plan and assign deliveries. Your drivers have their own mobile app with GPS navigation and delivery confirmation.",
+        "tag": "Deliveries"
+      },
+      {
+        "num": "05",
+        "title": "Pilot with AI",
+        "desc": "NeoChat knows your business. Ask questions in plain language, get instant insights and generate documents.",
+        "tag": "Intelligence"
+      }
+    ]
+  },
   "features": {
     "badge": "Features",
-    "title": "Everything you need.",
-    "titleAccent": "Nothing superfluous.",
+    "title": "Built for",
+    "titleAccent": "your trade.",
     "items": [
       {
-        "title": "Invoicing & Quotes",
-        "desc": "Create professional invoices and quotes in seconds. Automatic PDF, email sending, payment tracking.",
-        "tag": "Included Basic"
-      },
-      {
-        "title": "Real-time Inventory",
-        "desc": "Stock levels by location, configurable threshold alerts, movement history.",
-        "tag": "Included Basic"
-      },
-      {
-        "title": "GPS Deliveries",
-        "desc": "Kanban tracking, customer time slots, mobile driver app with real-time GPS.",
-        "tag": "Pro & Enterprise"
-      },
-      {
-        "title": "Complete After-Sales",
-        "desc": "Structured tickets, intervention history, item-level actions, automatic credit note generation.",
-        "tag": "Included Basic"
-      },
-      {
-        "title": "NeoChat AI",
-        "desc": "An AI assistant that knows your business. Answers questions, generates documents, analyzes your data.",
+        "title": "NeoChat — Agentic AI",
+        "desc": "Not a chatbot. An AI agent that acts: searches your orders, creates deliveries, updates statuses — always asking for your confirmation before touching any data.",
         "tag": "All plans"
       },
       {
-        "title": "Multi-store",
-        "desc": "Manage multiple stores from a centralized dashboard. Consolidated analytics, shared members.",
-        "tag": "Enterprise"
+        "title": "Quote → Invoice Pipeline",
+        "desc": "Quotes, orders and invoices are automatically linked. Convert a quote to an order in one click. PDF generated, email sent, payment tracked.",
+        "tag": "Included Basic"
+      },
+      {
+        "title": "Stock by Location",
+        "desc": "Stock levels per physical location (warehouse, showroom, depot). Configurable threshold alerts. Full movement history.",
+        "tag": "Included Basic"
+      },
+      {
+        "title": "Deliveries & Driver App",
+        "desc": "Delivery kanban, configurable customer time slots. Drivers get their own mobile app with GPS — without access to the rest of your workspace.",
+        "tag": "Pro & Enterprise"
+      },
+      {
+        "title": "After-Sales & Auto Credits",
+        "desc": "Structured SAV tickets per order item. Tracked interventions, full customer history. One-click credit note generation directly from the ticket.",
+        "tag": "Included Basic"
+      },
+      {
+        "title": "Workspace & Roles",
+        "desc": "Isolated space per store. 4 roles: Owner, Manager, Salesperson, Driver — each sees only what they need. Secure invitations via unique link.",
+        "tag": "All plans"
       }
     ]
   },
   "neochat": {
-    "badge": "NeoChat AI",
-    "title": "The AI that knows",
-    "titleAccent": "your business.",
-    "desc": "NeoChat is not a generic chatbot. It has access to your inventory, orders, customers and invoices. Ask any question about your activity — it answers in real time.",
+    "badge": "NeoChat — Agentic AI",
+    "title": "The AI that",
+    "titleAccent": "acts for you.",
+    "desc": "NeoChat knows your inventory, orders and customers. But what sets it apart: it can act. Create a delivery, update an order — and always asks for your confirmation before touching your data.",
     "demo": [
-      { "role": "user", "text": "What is my revenue this month?" },
-      { "role": "ai", "text": "This month, your revenue is €24,380, up +12% vs last month. Your top 3 sales are Simmons mattresses, Habitat frames and Bloomingville tables." },
-      { "role": "user", "text": "Generate an invoice for client Smith" },
-      { "role": "ai", "text": "Invoice INV-2025-0142 created for Mr. Smith (12 Main Street, London). Total: £1,890. PDF available and email sent." }
+      { "role": "user", "text": "Which orders have been pending for more than 3 days?" },
+      { "role": "tool", "text": "search_orders · status: pending · delay: +3d" },
+      { "role": "ai", "text": "3 blocked orders: ORD-0287 (Mr. Smith, £1,890), ORD-0283 (Renov Ltd, £8,750), ORD-0279 (Mrs. Martin, £3,240). Shall I schedule the deliveries?" },
+      { "role": "user", "text": "Yes, Smith tomorrow morning" },
+      { "role": "tool", "text": "create_delivery · ORD-0287 · 09h-12h · confirmation required" }
     ],
     "plans": [
       { "plan": "Basic", "tokens": "200 tokens/month" },
@@ -259,16 +297,16 @@
   },
   "enterprise": {
     "badge": "Enterprise",
-    "title": "NeoFlow BOS",
-    "titleAccent": "for groups.",
-    "desc": "A single subscription for all your stores. Centralized dashboard, consolidated analytics, unlimited members.",
+    "title": "NeoFlow BOS for",
+    "titleAccent": "retail networks.",
+    "desc": "A centralized space to manage multiple stores. Each location keeps its autonomy — you keep the global picture.",
     "features": [
-      { "title": "Centralized multi-workspace", "desc": "Manage N stores from a single interface. Each store keeps its isolated space." },
-      { "title": "Consolidated analytics", "desc": "Revenue, orders and inventory aggregated across all your locations in real time." },
-      { "title": "Unlimited members", "desc": "Add as many collaborators as needed, at no extra cost." },
-      { "title": "Unlimited NeoChat AI", "desc": "Unlimited tokens for your entire team and all your stores." },
-      { "title": "Guaranteed SLA", "desc": "Guaranteed response time, dedicated contact, priority support 7 days a week." },
-      { "title": "Team training", "desc": "Onboarding and training of your teams included in the Enterprise plan." }
+      { "title": "One workspace per store", "desc": "Each store has its own isolated space: data, team, stock. No information leak between locations.", "num": "01" },
+      { "title": "Group dashboard", "desc": "View revenue, orders and stock alerts across all your stores from a single view. (Rolling out soon)", "num": "02" },
+      { "title": "Unlimited members", "desc": "Invite as many collaborators as needed to each workspace. No per-seat surcharge.", "num": "03" },
+      { "title": "Unlimited NeoChat AI", "desc": "Unlimited tokens across all your workspaces. Agentic AI available for your entire team, no counter.", "num": "04" },
+      { "title": "Dedicated support & SLA", "desc": "A direct contact at NeoFlow. Guaranteed response time, priority availability 7 days a week.", "num": "05" },
+      { "title": "Guided onboarding", "desc": "We configure NeoFlow BOS with you and train your teams. No blind start.", "num": "06" }
     ],
     "form": {
       "title": "Request a demo",
